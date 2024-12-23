@@ -1,0 +1,20 @@
+minecraft-server
+minecraft-server
+minecraft-server
+nextico ? /app/PAT/scripts/icoNmotd_swapper/configs/icons/3.png
+SELECTED_ICO_FILE:3
+next_motd_line:3
+2024-12-18 23:49:49 [minecraft-server] minecraft-server
+nextico ? /app/PAT/scripts/icoNmotd_swapper/configs/icons/4.png
+SELECTED_ICO_FILE:0
+next_motd_line:4
+2024-12-20 00:24:57 [minecraft-server] minecraft-server
+SELECTED_ICO_FILE:2024-12-20 08:12:09 - [1
+next_motd_line:5
+2024-12-20 09:12:21 [minecraft-server] minecraft-server
+2024-12-20 09:13:30 [minecraft-server] minecraft-server
+2024-12-20 09:15:34 [minecraft-server] minecraft-server
+2024-12-21 03:04:15 [minecraft-server] minecraft-server
+SELECTED_ICO_FILE:2024-12-21 02:39:45 - [2
+next_motd_line:6
+2024-12-21 03:39:57 [minecraft-server] minecraft-server
